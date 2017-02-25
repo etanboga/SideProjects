@@ -1,0 +1,5 @@
+﻿  tictactoe.cpp
+d:\cs32\winter break projects\tictactoe\tictactoe\tictactoe.cpp(174): warning C4715: 'Gameboard::howMuchOCouldHurtMeIfIMadeThisMove': not all control paths return a value
+d:\cs32\winter break projects\tictactoe\tictactoe\tictactoe.cpp(190): warning C4715: 'Gameboard::howMuchXCouldHurtMeIfIMadeThisMove': not all control paths return a value
+  TicTacToe.vcxproj -> D:\CS32\Winter Break Projects\TicTacToe\Debug\TicTacToe.exe
+  TicTacToe.vcxproj -> D:\CS32\Winter Break Projects\TicTacToe\Debug\TicTacToe.pdb (Partial PDB)
